@@ -1,0 +1,148 @@
+{
+    "general_information": [
+        {
+            "questionPatterns": [
+                "mission",
+                "goal",
+                "aim",
+                "purpose",
+                "why icu",
+                "about icu"
+            ],
+            "answer": "ICU Zambia's mission is to offer education designed for problem-solving, building a strong foundation for ICT advancements in Zambia by encouraging invention, creativity, and innovation."
+        },
+        {
+            "questionPatterns": [
+                "recognized",
+                "registered",
+                "registration",
+                "hea",
+                "accreditation"
+            ],
+            "answer": "Yes, Information and Communications University (ICU) is registered with the Higher Education Authority (HEA) in Zambia."
+        },
+        {
+            "questionPatterns": [
+                "mode",
+                "study",
+                "types of education",
+                "full time",
+                "distance",
+                "e-learning"
+            ],
+            "answer": "ICU Zambia offers both distance (e-Learning) and full-time education to suit your needs."
+        }
+    ],
+    "admissions": [
+        {
+            "questionPatterns": [
+                "apply",
+                "admission",
+                "join",
+                "application",
+                "register"
+            ],
+            "answer": "You can apply online via our official website at https://www.icuzambia.net by clicking the 'APPLY NOW' button. You will need to fill in personal details, qualifications, and select your mode and program of study."
+        },
+        {
+            "questionPatterns": [
+                "documents",
+                "requirements",
+                "need",
+                "prepare"
+            ],
+            "answer": "For online application, you must upload certified PDF copies of your Zambian ID (or passport for international students), High School Senior Certificate, and a scanned copy of your Grade 12 Certificate/Statement of Results."
+        },
+        {
+            "questionPatterns": [
+                "sponsorship",
+                "scholarship",
+                "financial",
+                "aid",
+                "zrdc",
+                "free"
+            ],
+            "answer": "Yes! Up to 90% sponsorship is available for certain intakes (ZRDC Sponsorship). You can apply for this when processing your admission."
+        }
+    ],
+    "registration_payments": [
+        {
+            "questionPatterns": [
+                "register online",
+                "online registration",
+                "after applying",
+                "application number",
+                "reference number"
+            ],
+            "answer": "After applying, check your email for an 'application received' email which contains your application number. Then visit https://www.icuzambia.net, click 'Online Registration', and log in with that reference number."
+        },
+        {
+            "questionPatterns": [
+                "pay",
+                "payment",
+                "semester",
+                "balance",
+                "fees"
+            ],
+            "answer": "The first payment of the semester should be registered under 'semester registration'. Any subsequent payments for the same semester (like second or third term) should be registered under 'make balance payment'."
+        }
+    ],
+    "contact_info": [
+        {
+            "questionPatterns": [
+                "campus",
+                "location",
+                "address",
+                "where",
+                "find"
+            ],
+            "answer": "Our main campus is located Off Shantumbu Road, Kafue, Plot # 19877/M/1A/392. We also have a location at Box 30226 Cairo Road, Lusaka, Zambia."
+        },
+        {
+            "questionPatterns": [
+                "contact",
+                "number",
+                "call",
+                "phone",
+                "hotline",
+                "customer"
+            ],
+            "answer": "You can reach us for inquiries at +260779841694, +260777020293, +260976785240, or +260978876870."
+        },
+        {
+            "questionPatterns": [
+                "email",
+                "support",
+                "write"
+            ],
+            "answer": "You can email us directly at icu@icuzambia.net."
+        }
+    ],
+    "academics": [
+        {
+            "questionPatterns": [
+                "courses",
+                "programs",
+                "degrees",
+                "what can i study",
+                "majors",
+                "faculties",
+                "bachelor",
+                "master"
+            ],
+            "answer": "ICU Zambia offers a wide range of academic programs including Certificate, Diploma, Bachelor's, Postgraduate Diploma, and Master's degrees in fields like Engineering, ICT, Business, Education, and Humanities. We have a School of Engineering and School of Humanities and Business among others."
+        }
+    ],
+    "fees_and_pricing": [
+        {
+            "questionPatterns": [
+                "how much",
+                "tuition",
+                "cost",
+                "pricing",
+                "fee"
+            ],
+            "answer": "For the 2025/2026 Academic Year, application fee is K150, and registration fee is K500. Tuition fees vary by program: Masters and Bachelors are typically K48000 to K50000 per semester, and Master's programs are K56000 per semester. Distance E-Learning tuition is significantly lower (e.g., K8,000 to K13,000 per semester)."
+        }
+    ]
+}
